@@ -1,5 +1,5 @@
 header {
-  background: #cccccc;
+  background: #5eaeff;
   padding: 20px 0;
 }
 
@@ -29,12 +29,12 @@ nav a {
 }
 
 nav a:hover {
-  color: #ff992c;
+  color: #ffffff;
   text-decoration: underline;
 }
 
 .principal {
-  background-color: #ccc;
+  background-color: #ffffff;
   padding: 30px;
 }
 .titulo-principal {
@@ -61,7 +61,7 @@ em strong {
 }
 
 .beneficios {
-  background-color: gray;
+  background-color: #92c9ff;
   padding: 20px;
 }
 .listabeneficios {
@@ -81,6 +81,7 @@ footer {
   text-align: center;
   background: url("img/bg.jpg");
   padding: 40px 0;
+  color: #ffffff;
 }
 
 .copyright p {

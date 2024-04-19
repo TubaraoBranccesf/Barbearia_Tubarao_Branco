@@ -1,5 +1,5 @@
 header {
-  background: #ccc;
+  background: #5eaeff;
   padding: 20px 0;
 }
 
@@ -29,7 +29,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #ff992c;
+  color: #ffffff;
   text-decoration: underline;
 }
 
@@ -82,6 +82,7 @@ footer {
   text-align: center;
   background: url("img/bg.jpg");
   padding: 40px 0;
+  color: #ffffff;
 }
 
 .copyright {
@@ -120,8 +121,8 @@ form legend {
 .enviar {
   width: 40%;
   padding: 15px 0;
-  background: rgb(0, 255, 247);
-  color: rgb(0, 0, 0);
+  background: #5eaeff;
+  color: rgb(255, 255, 255);
   font-weight: bold;
   font-size: 18px;
   border: none;
@@ -131,6 +132,6 @@ form legend {
 }
 
 .enviar:hover {
-  background: darkorange;
+  background: rgb(34, 9, 110);
   transform: scale(1.2);
 }
